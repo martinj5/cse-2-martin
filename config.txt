@@ -4,3 +4,4 @@
 [user]
 
 	email = sumicshutka@gmail.com
+	__pycache__/ contains the bytecode of the compiled python program
