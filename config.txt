@@ -2,5 +2,5 @@
 	autocrlf = true
 	excludesfile = C:\\Users\\Martin\\Documents\\gitignore_global.txt
 [user]
-	name = martinj5
+
 	email = sumicshutka@gmail.com
